@@ -1,0 +1,7 @@
+@import url('./main-layout.css');
+@import url('./views/persontable-view.css');
+@import url('./views/todo-table-view.css');
+@import url('@fontsource/arimo/index.css');    html {
+--lumo-font-family: Arimo;
+
+    }
